@@ -2,10 +2,4 @@
 
 Flutter app design for weatherapp.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-![Weather App UI](https://ibb.co/7rF7t1S)
+![Weather App UI](https://i.ibb.co/1RxHGm0/Whats-App-Image-2019-09-02-at-14-14-41.jpg)
